@@ -25,7 +25,7 @@ public class UserControllerTest {
             .put("firstName", "Ivan")
             .put("lastName", "Petrov")
             .put("email", "ivanpetrov@gmail.com")
-            .put("phone", "+79055888889")
+            .put("phone", "9055888889")
             .put("region", 90)
             .put("birthDate", "26.05.1994")
             .put("married", true)
